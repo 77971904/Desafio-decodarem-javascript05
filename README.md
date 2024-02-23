@@ -1,4 +1,4 @@
-Quinto projeto do desafio em codar em javascript.
+Sexto projeto do desafio em codar em javascript.
 (Inicialização de variáveis; Evento de clique no botão de lançamento (flipBtn); Simulação do lançamento da moeda; Atualização de estatísticas;
 Desativação do botão de lançamento temporariamente; Evento de clique no botão de reinício (resetBtn)).
 
